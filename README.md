@@ -13,8 +13,8 @@
 ---
 
 ## 📂 Projects
-### 🔹 [Senicare](https://github.com/ristukaJJang/Senicare)
-시니어 케어 플랫폼 (React + Spring Boot + MySQL)  
+### 🔹 [도란도란](https://github.com/orgs/DoranDoran-team/repositories)
+커뮤니티 기반 웹 서비스 (React + Spring Boot + MySQL)  
 - 시니어와 보호자를 연결해 건강 관리 및 소통 지원  
 - 백엔드 API 설계 및 DB 모델링 담당  
 

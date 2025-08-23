@@ -4,29 +4,75 @@
 
 ---
 
+## 🎓 Education
+- 부산대학교 IT응용공학과 졸업 2025.02
+- 대명여자고등학교 졸업 2020.02
+
+---
+
+## 🌍 Foreign Language
+- 토익 810점 2024.01.28
+- 오픽 IM2 2025.04.24
+
+---
+
 ## 🛠 Tech Stack
 - **Language:** Java, Python, C, JavaScript, TypeScript
 - **Framework:** Spring Boot, React, Flask
 - **Database:** MySQL, MariaDB
 - **Infra & Tools:** AWS, Git, Notion, Slack, Figma
+- **Document:** DB(필드 명세서, 업무 규칙서, 뷰 정의서)
+
+---
+
+## 📜 License
+- **정보처리기사** 2023.11.15
+- **리눅스 마스터 2급** 2025.03.28
+- **SQLD** 2024.12.13
+
+---
+
+## 🏆 Awards
+- 2024 제12회 생명자원과학대학 캡스톤 디자인 작품 전시회 동상
+- 2024학년도 1학기 PNU LINC 3.0 캡스톤디자인 경진대회 일반형 부문 최우수상
+- 2022 부산대학교 스타트업 디자인 경진대회 최우수상
 
 ---
 
 ## 📂 Projects
 ### 🔹 [도란도란](https://github.com/orgs/DoranDoran-team/repositories)
 커뮤니티 기반 웹 서비스 (React + Spring Boot + MySQL)  
-- 시니어와 보호자를 연결해 건강 관리 및 소통 지원  
-- 백엔드 API 설계 및 DB 모델링 담당  
+- JWT 및 AuthenticationPrincipal 활용한 보안 강화
+- 로그인 전반 기능(Front & Back 구현)
+- 홈페이지 관리자 권한(Front & Back 구현)
+- 마이페이지 및 개인 정보 수정(Front & Back 구현)
+- 유저 간 팔로우 기능(Front & Back 구현)
+- 신고받은 유저 활동 제한 기능(Front & Back 구현)
 
-### 🔹 [Web Crawling](https://github.com/ristukaJJang/WebCrawling)
-다양한 사이트 데이터 크롤링 자동화 (Python)  
-- BeautifulSoup, Selenium 기반 크롤러 제작  
-- 크롤링 데이터 전처리 및 CSV 저장  
 
-### 🔹 [Yutnori Board Game Simulator](https://github.com/ristukaJJang/보드게임링크)
-전통 윷놀이 보드게임 시뮬레이터 (JavaScript)  
-- 보드 경로 설계 및 말 이동 알고리즘 구현  
-- 다양한 분기 규칙 반영  
+### 🔹 [The Memorial Day](https://github.com/orgs/TheMemorialDay/repositories)
+온라인 케이크 거래 서비스 (React + Spring Boot + MySQL)  
+- UI 디자인
+- 사업자 등록 확인 API 구현(공공데이터 활용)
+- 가게 별 상품 조회 및 상품 상세 조회(Front & Back 구현)
+- 리뷰(Front & Back 구현) 
+- 공지사항 & QnA(Front & Back 구현)
+
+
+### 🔹 [AutoClassify](https://github.com/pnuSorting/Image-Classification)
+사진 자동 분류 어플리케이션 (Java + Flask + Firebase Realtime Database)  
+#### Android 클라이언트 개발에서 UI를 제외한 핵심 기능 구현
+ - **Retrofit2**를 이용한 서버 통신(Flask 백엔드) 및 데이터 전송 로직 구현
+ - **MediaStore**와 **RecyclerView**를 사용한 사용자 갤러리 정보 불러오기
+ - **GridView**를 이용한 분류 완료 이미지 리스트 불러오기 구현
+ - **ViewPager2**를 이용한 이미지 슬라이더 구현
+ - **Firebase Realtime Database**를 활용한 이미지 찜하기 기능 구현
+ - 서버로부터 받은 이미지를 외부 저장소에 저장하는 기능 구현
+
+#### Flask를 이용한 백엔드 서버 개발  
+ - 클라이언트와의 통신을 위한 RESTful API 설계 및 구현(이미지 업로드, 다운로드, 삭제)
+ - Exif 데이터와 Pillow 라이브러리를 활용하여 이미지 촬영 날짜 및 위치 정보 추출 후 분류 코드 작성
+ - Kakao Local API를 활용하여 이미지 촬영 장소 위경도를 클라이언트에 반환 가능한 JSON 형식으로 변환하여 실제 주소로 변환
 
 ---
 

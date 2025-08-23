@@ -1,16 +1,14 @@
-# 👋 안녕하세요, 백엔드 개발자 지망생 정호정입니다!
+# 👋 정호정 | 변하지 않는 이름처럼 꾸준한 성장형 인재
 
-사용자에게 **가치 있는 서비스를 안정적으로 제공**하는 것을 목표로 하는 백엔드 개발자입니다.  
-Java & Spring Boot를 중심으로 한 웹 서비스 개발 경험이 있으며,  
-팀 프로젝트를 통해 협업과 문제 해결 능력을 키워왔습니다.  
+‘자연성 물질’은 스스로 잘 타는 물질을 의미하며, 이나모리 가즈오의 왜 일하는가에서 강조하는 개념입니다. 저는 맡은 일을 좋아하고, 그 애정을 바탕으로 스스로 열정을 불태우며 성장하는 사람이 되고자 합니다. 주어진 일에 최선을 다하며, 끊임없이 도전하는 개발자가 되겠습니다.
 
 ---
 
 ## 🛠 Tech Stack
-- **Language:** Java, Python, JavaScript, TypeScript
-- **Framework:** Spring Boot, React
-- **Database:** MySQL, Redis
-- **Infra & Tools:** AWS, Docker, Git, GitHub Actions  
+- **Language:** Java, Python, C, JavaScript, TypeScript
+- **Framework:** Spring Boot, React, Flask
+- **Database:** MySQL, MariaDB
+- **Infra & Tools:** AWS, Git, Notion, Slack, Figma
 
 ---
 
@@ -38,9 +36,8 @@ Java & Spring Boot를 중심으로 한 웹 서비스 개발 경험이 있으며,
 ---
 
 ## 📫 Contact
-- Email: **example@gmail.com**  
-- Blog: [Velog](https://velog.io/@내아이디)  
-- LinkedIn: [링크](https://linkedin.com/in/내아이디)  
+- Email: **ghwjd5585@gmail.com**  
+- Blog: [Velog](https://velog.io/@hojeong425)  
 
 ---
 ✨ 꾸준히 성장하는 개발자가 되겠습니다. 감사합니다!

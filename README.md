@@ -21,7 +21,7 @@
 - **Framework:** Spring Boot, React, Flask
 - **Database:** MySQL, MariaDB
 - **Infra & Tools:** AWS, Git, Notion, Slack, Figma
-- **Document:** DB(필드 명세서, 업무 규칙서, 뷰 정의서)
+- **Document:** DB(필드 명세서, 업무 규칙서, 뷰 정의서), Web(요구사항 명세서, API 명세서)
 
 ---
 
@@ -41,7 +41,9 @@
 
 ## 📂 Projects
 ### 🔹 [도란도란](https://github.com/orgs/DoranDoran-team/repositories)
-커뮤니티 기반 웹 서비스 (React + Spring Boot + MySQL)  
+커뮤니티 기반 웹 서비스 (React + Spring Boot + MySQL)    
+4명, 2025.01 ~ 2025.04
+
 - JWT 및 AuthenticationPrincipal 활용한 보안 강화
 - 로그인 전반 기능(Front & Back 구현)
 - 홈페이지 관리자 권한(Front & Back 구현)
@@ -52,6 +54,8 @@
 
 ### 🔹 [The Memorial Day](https://github.com/orgs/TheMemorialDay/repositories)
 온라인 케이크 거래 서비스 (React + Spring Boot + MySQL)  
+4명, 2024.09 ~ 2024.11
+
 - UI 디자인
 - 사업자 등록 확인 API 구현(공공데이터 활용)
 - 가게 별 상품 조회 및 상품 상세 조회(Front & Back 구현)
@@ -60,7 +64,9 @@
 
 
 ### 🔹 [AutoClassify](https://github.com/pnuSorting/Image-Classification)
-사진 자동 분류 어플리케이션 (Java + Flask + Firebase Realtime Database)  
+사진 자동 분류 어플리케이션 (Java + Flask + Firebase Realtime Database)      
+2명, 2024.03 ~ 2024.10
+
 #### Android 클라이언트 개발에서 UI를 제외한 핵심 기능 구현
  - **Retrofit2**를 이용한 서버 통신(Flask 백엔드) 및 데이터 전송 로직 구현
  - **MediaStore**와 **RecyclerView**를 사용한 사용자 갤러리 정보 불러오기
@@ -73,6 +79,17 @@
  - 클라이언트와의 통신을 위한 RESTful API 설계 및 구현(이미지 업로드, 다운로드, 삭제)
  - Exif 데이터와 Pillow 라이브러리를 활용하여 이미지 촬영 날짜 및 위치 정보 추출 후 분류 코드 작성
  - Kakao Local API를 활용하여 이미지 촬영 장소 위경도를 클라이언트에 반환 가능한 JSON 형식으로 변환하여 실제 주소로 변환
+
+### 🔹 공정 육묘 자동화 시스템 플랫폼을 활용한 공동 육묘장
+4명, 2022.06 ~ 2022.08
+기후 변화, 인력난, 육묘업 등록제, 비양심적인 육묘장 등으로 인해 육묘와 관련된 사회적 문제가 점점 심화되고 있습니다. 이를 해결하기 위해 마을 공동 육묘장이라는 아이디어를 구상했습니다.
+
+ - 팀장
+ - 육묘 재배기와 기기 내의 센서 관리
+ - 전선 납땜 등 기기 연결
+ - 펠티어 소재를 활용하여 육묘 재배기 내 온도 조절 기능
+ - 아두이노를 활용하여 조도, 가스, 온습도 센서를 통해 육묘 재배기의 상태를 실시간으로 모니터링
+
 
 ---
 

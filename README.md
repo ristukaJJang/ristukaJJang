@@ -83,7 +83,8 @@
 
 ## 📫 Contact
 - Email: **ghwjd5585@gmail.com**  
-- Blog: [Velog](https://velog.io/@hojeong425)  
+- Blog: [Velog](https://velog.io/@hojeong425)
+- Notion: [Notion](https://hazel-makeup-cea.notion.site/145b48a7fdbc80eb9b33d19a25e74efe)
 
 ---
-✨ 꾸준히 성장하는 개발자가 되겠습니다. 감사합니다!
+✨ 꾸준히 성장하는 열정 가득한 개발자가 되겠습니다. 감사합니다:)
